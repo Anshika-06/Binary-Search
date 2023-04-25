@@ -17,4 +17,4 @@ while until the pointers low and high meet each other.
         high = mid - 1
         
         
-        ![images](https://user-images.githubusercontent.com/125429580/234251393-8c01d15b-4063-4d2b-9a77-658fc3f190e5.jpg)
+       
