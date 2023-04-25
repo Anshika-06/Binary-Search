@@ -42,7 +42,7 @@ int main()
 		}
 		
 	}
-		reurn -1;
+		reutrn -1;
 }
 
 
