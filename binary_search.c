@@ -40,8 +40,9 @@ int main()
 		{
 			lb=mid+1;
 		}
-		else
-			return -1;
+		
 	}
+		reurn -1;
 }
+
 
