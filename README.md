@@ -22,6 +22,9 @@ while until the pointers low and high meet each other.
    else                       // x is on the left side
        
    high = mid - 1
+   
+   
         
-        
+        ![binary-search](https://user-images.githubusercontent.com/125429580/234466187-9071c08e-2de6-403f-998d-48a02efe2405.gif)
+
        
