@@ -25,6 +25,4 @@ while until the pointers low and high meet each other.
    
    
         
-        
-![binary-search-small](https://user-images.githubusercontent.com/125429580/234466765-71c0ec93-e9f7-4011-97af-349d30001e35.gif)
-
+  ![binary-search](https://user-images.githubusercontent.com/125429580/234466947-2f56a8aa-221b-47a2-883f-225288976a9f.gif)
