@@ -26,6 +26,5 @@ while until the pointers low and high meet each other.
    
         
         
-![download](https://user-images.githubusercontent.com/125429580/234466560-ecb9d2ed-be78-49dd-9c2d-6b35699ac4d9.png)
+![binary-search-small](https://user-images.githubusercontent.com/125429580/234466765-71c0ec93-e9f7-4011-97af-349d30001e35.gif)
 
-       
